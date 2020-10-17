@@ -2,8 +2,8 @@
 
 ## (0) Project Name and Team Slack Handles
 
-- Project Name : Fildown
-- Slack Handles : lulu
+- Project Name : Panfil
+- Slack Handles : jerseyjerry
 
 ## (1) Brief Project Description
 
@@ -12,12 +12,11 @@ We want to provide commonly used, free or used software for users to download th
 
 ## (2) Link to Project UI
 
-Link : https://fildown.com/
+Link : http://www.panfil.io/
 
 ## (3) What does your application/UI do?
 
-Our application is mainly search based, in the future when you can download more software, provide classification function.
-
+Our application is mainly upload and search based. It will be a Filcoin user admin panel. Users can use it easily to upload and retrieve kinds of files in the future.
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
@@ -25,7 +24,7 @@ No using curated dataset.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-We provide the data from the official download of various software official platforms
+We provide the data from our IDC switch log Now. 
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
@@ -33,7 +32,7 @@ We will store these dataset about 6TiB ~ 10TiB during the slingshot competition.
 
 ## (7) How are you structuring the data?
 
-We use Mysql to structure these datasets
+We use MongoDB to structure these datasets
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
@@ -49,13 +48,12 @@ We will store the data in my local machine, so firstly I will retrieval the data
 
 ## (11) Who is the intended user for your application/UI?
 
-For the software needs of users can use our application, regardless of their operating system is windows, MacOS and so on.
+For the IDC users needs of users can use our application, regardless of their operating system is windows, MacOS and so on.
 
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-No, for now, I juest start develop it, I will storage some different kinds of software.
-For a long-term considering, I will develop download function for the storage data to help users more conveniently use it.
+Yes, we have IDC users
  
 ## (13) What challenges do you anticipate with this project?
 
